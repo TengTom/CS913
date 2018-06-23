@@ -20,7 +20,7 @@ The scripts to generating the cell dynamic images in RGB channel
 The parallel computation in Matlab is **not** applied in the generation process
 
 
-**autoPar**
+**autoPar**  
 The scripts to generating the cell dynamic images in gey scale  
 The parallel computation in Matlab is applied in the generation process
 

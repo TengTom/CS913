@@ -1,7 +1,10 @@
 ### This folder including the code testing image for cell simulation 
 
 To simulating the cell dynamics, please set the working directory to the Sim folder. Add simcep, Functions and Functions_DNA into the path.  
-The sine function for the cell DNA oscillation dynamic is in _Functions_DNA_
+The sine function for the cell DNA oscillation dynamic is in _Functions_DNA_  
+  
+Notice: Understanding whole mechanism may take some times. If you are interested in the setting of the oscillation functions for genes between nucleus and cytoplasm, please see the scripts in **Functions_DNA**.     
+
 
 **simcep:**  
 The tool package for cell image simulation. This package is already compiled. 
@@ -33,6 +36,3 @@ bias2frames: ```Transform cell dynamic bias samples to frames.```
 
 **Functions_DNA**  
 Functions for generating 10 different DNA oscillation sine functions. Please uncomment the display section if you need to show this 10 functions (func10.m is used for current (grey) simulation. func7.m is used for RGB simulation)
-  
-    
-Notice: Understanding whole mechanism may take some times. If you are interested in the setting of the oscillation functions for genes between nucleus and cytoplasm, please see the scripts in **Functions_DNA**.     

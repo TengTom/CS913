@@ -3,5 +3,5 @@
 ### Sim
 The Matlab scripts for cell dynamic simulation
 
-### Python (Waitting for Update)
-The python scripts for data handle and ANN processing
+### Python (To be Update)
+The python scripts for data handling and ANN processing

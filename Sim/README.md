@@ -9,7 +9,9 @@ Notice: Understanding whole mechanism may take some times. If you are interested
 **simcep:**  
 The tool package for cell image simulation. This package is already compiled. 
 Some out-of-date Matlab functions (randint) have already updated to the related version in Matlab 2017b.  
-Please see the readme file in simcep folder for the original reference and further information    
+Please see the readme file in simcep folder for the original reference and further information
+If Simcep package not worked, please re-install and compile the simcep followed by the official instruction. 
+Then replace the original folder in this directory or set ```addpath <simcep folder> ```  in the matlab
 _It is strongly suggested to read the readme and get familiar with the scripts in simcep if you hope to know how
 the scripts including scripts outside this folder work_
 

@@ -1,7 +1,7 @@
 # CS913
 
-### Sim
+### Sim (To be Updated)
 The Matlab scripts for cell dynamic simulation
 
-### Python (To be Update)
+### Python (To be Updated)
 The python scripts for data handling and ANN processing

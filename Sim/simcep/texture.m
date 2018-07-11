@@ -45,5 +45,7 @@ for ind = n1:(n2+n1)-1
 end
 
 out = out - min(out(:));
-out = out./max(out(:));
+if max(out(:)) ~= 0:
+    out = out./max(out(:));
+end    
 out = b + (1-b)*out;

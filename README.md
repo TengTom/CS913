@@ -1,7 +1,10 @@
 # CS913
 
-### Sim (To be Updated)
-The Matlab scripts for cell dynamic simulation
+### Sim 
+The Matlab scripts for cell dynamic simulation (simple simulation without noise)
 
-### Python (To be Updated)
+### Sim2
+The Matlab scripts for cell dynamic simulation (complex simulation)
+
+### Python 
 The python scripts for data handling and ANN processing

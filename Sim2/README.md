@@ -27,13 +27,16 @@ The parallel computation in Matlab is **not** applied in the generation process
 
 **autoTest2**  
 The scripts for generating the cellular dynamic images in grey scale  
+The noise about phases selection is involved  
 The parallel computation in Matlab is applied in the generation process
 
 **Functions**  
 Two function scripts  
 dna2bias: ```Convert sine function to the gene oscillation functions between cell nucleus and cytoplasm```  
-bias2frames: ```Transform cell dynamic bias samples to frames.```  
-             Notice: please uncomment the code in this function if you need to sim cell in RGB channel
+bias2frames:  
+```Transform cell dynamic bias samples to frames.```  
+``` The noise about shape and texture randomness involved```  
+Notice: please uncomment the code in this function if you need to sim cell in RGB channel
              
 
 **Functions_DNA**  

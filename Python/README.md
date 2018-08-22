@@ -8,8 +8,10 @@ To do this, please run the MATLAB simulation code in this repo (Sim for simple c
 Or download the data that is already simulated by me from link below:  
  **Link Upload Later** 
    
-Than put the data in the data folder in workspace folder and run training.py  
+Than put the data in the ***DataConstruct*** folder in the corresponding workspace folder and run ```dataConstruct.py```  
+followed by copy all new data file in ```.mat``` format and entire ***outputDAT*** folder to the ***Network://data*** folder  
+
 The parameter setting for training is different due to the the number of class and sample is different in simple and complex cell simulation.  
-You can directly run the training.py in workspace1 for simple cell version and in workspace for complex cell version as the params in the 
+You can directly run the training.py in workspace1 for simple cell version and in workspace_complex for complex cell version as the params in the 
 corresponding training.py is already been set   
-**workspace2 Upload Later**  
+ 

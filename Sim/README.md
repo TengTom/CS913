@@ -38,3 +38,6 @@ bias2frames: ```Transform cell dynamic bias samples to frames.```
 
 **Functions_DNA**  
 Functions for generating 10 different DNA oscillation sine functions. Please uncomment the display section if you need to show this 10 functions (func10.m is used for current (grey) simulation. func7.m is used for RGB simulation)
+
+### Simulation instructions: 
+Run ***mkdir.py*** by python in data folder, then run the ***autoPar*** by MATLAB in this directory

@@ -43,4 +43,7 @@ Notice: please uncomment the code in this function if you need to sim cell in RG
 Functions for generating 10 different DNA oscillation sine functions. Please uncomment the display section if you need to show this 10 functions (func10.m is used for current (grey) simulation. func7.m is used for RGB simulation)
 
 ### Simulation instructions: 
-Run ***mkdir.py*** by python in data folder, then run the ***autoTest2*** by MATLAB in this directory
+Run ***mkdir.py*** by python in data folder, then run the ***autoTest2*** by MATLAB in this directory  
+**!!Notice:**  
+The ***autoTest2*** script can simulated cellular dynamic data with two sampling rate: 5 & 10. Please modifed the code 
+```Frame_gap = 10``` as 5 or 10 in this script for the required simulation

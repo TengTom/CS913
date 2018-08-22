@@ -1,4 +1,4 @@
-#### Uploading not finished yet. But you can see TS_Conv_MobileNet.py and Ts_MobileNet.py for finished network structure
+#### You can see TS_Conv_MobileNet.py and Ts_MobileNet.py for finished network structure in workspace folder
 
 This is the python scripts for training data construction and network training  
 As the training data is huge. The memory for the computer may not enough to load all training data once.

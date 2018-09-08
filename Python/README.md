@@ -6,7 +6,19 @@ The original training data have to be segmented and converted to the memmap form
 
 To do this, please run the MATLAB simulation code in this repo (Sim for simple cell simulation and Sim2 for complex cell simulation)  
 Or download the data that is already simulated by me from link below:  
- **Link Upload Later** 
+##### 1.	Datasets
+**1.1	Simple Simulation Data zip file**   
+(10 classes, 900 samples per class, 128 frames per sample, 64x64 resolution per frame)  
+https://www.dropbox.com/s/7co5gqfnhps6o5m/data.zip?dl=0
+
+**2.2	Complex Simulation Data zip file (Sampling Rate = 5)**  
+(3 classes, 1000 samples per class, 128 frames per sample, 64x64 resolution per frame)  
+https://www.dropbox.com/s/r8zltsix5n1ltev/data5.zip?dl=0
+
+**3.3	Complex Simulation Data zip file (Sampling Rate = 10)**  
+(3 classes, 1000 samples per class, 128 frames per sample, 64x64 resolution per frame)  
+   https://www.dropbox.com/s/ex6n2pwbtqqhzu1/data6.zip?dl=0
+
    
 Than put the data in the ***DataConstruct*** folder in the corresponding workspace folder and run ```dataConstruct.py```  
 followed by copy all new data file in ```.mat``` format and entire ***outputDAT*** folder to the ***Network://data*** folder  
